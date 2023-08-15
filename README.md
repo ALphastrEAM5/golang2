@@ -1,2 +1,3 @@
 # go-example-launcher-app
-Golang application to be used in the launcher
+This is very useful application  
+Golang application to be used in the launcher     
